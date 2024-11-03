@@ -1,8 +1,8 @@
 # CourseifyYT - YouTube Course Tracker
 
 CourseifyYT is a modern web application that transforms YouTube playlists into structured online courses. Built with React, TypeScript, and Tailwind CSS, it offers a seamless learning experience by organizing educational content from YouTube in a course-like format.
+![Screenshot (4261)](https://github.com/user-attachments/assets/0d3315ca-7843-4c0c-8a54-5c78dc7774f5)
 
-![CourseifyYT Screenshot](https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?auto=format&fit=crop&q=80&w=1200)
 
 ## Features
 
@@ -34,6 +34,7 @@ CourseifyYT is a modern web application that transforms YouTube playlists into s
   - Organized video listing
   - Video duration display
   - Clear course structure
+![Screenshot (4265)](https://github.com/user-attachments/assets/b61edf86-65d9-4d0b-baee-95faa7a9cbfc)
 
 ## Getting Started
 
@@ -46,8 +47,7 @@ CourseifyYT is a modern web application that transforms YouTube playlists into s
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/courseify-yt.git
-cd courseify-yt
+git clone https://github.com/Yaxh8074/CoursifyYT
 ```
 
 2. Install dependencies:
@@ -130,18 +130,3 @@ The application uses local storage to persist:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Built with [React](https://reactjs.org/)
-- Styled with [Tailwind CSS](https://tailwindcss.com/)
-- Icons from [Lucide](https://lucide.dev/)
-- Video platform: [YouTube](https://www.youtube.com/)
-
-## Support
-
-For support, please open an issue in the GitHub repository or contact the maintainers.
-
----
-
-Made with ❤️ by [Your Name]
