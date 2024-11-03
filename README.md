@@ -1,5 +1,7 @@
 # CourseifyYT - YouTube Course Tracker
 
+site in action at - https://coursifyyt.netlify.app/
+
 CourseifyYT is a modern web application that transforms YouTube playlists into structured online courses. Built with React, TypeScript, and Tailwind CSS, it offers a seamless learning experience by organizing educational content from YouTube in a course-like format.
 ![Screenshot (4261)](https://github.com/user-attachments/assets/0d3315ca-7843-4c0c-8a54-5c78dc7774f5)
 
