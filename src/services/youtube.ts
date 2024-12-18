@@ -1,4 +1,4 @@
-const API_KEY = import.meta.env.VITE_YOUTUBE_API_KEY;
+const API_KEY = import.meta.env.VITE_YOUTUBE_API_KEY||"AIzaSyDv9iiGuA3TCNkUeCjBPKTtAmCyzFpfdAk";
 
 export async function getPlaylistId(url: string): Promise<string | null> {
   const regex = /[?&]list=([^&]+)/;
